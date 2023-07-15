@@ -32,4 +32,4 @@ Want to know more about me? <a href='https://www.davidwebworks.com'> Check out m
 <h3>My recent projects</h3>
 - <a href='https://www.getdronic.com'>Dronic Smart Plugs</a> :  I helped bring Dronic Smart Plugs' vision to life with a sleek logo, vibrant colors, and an easy-to-use online shop.
 <br/>
-- <a href='https://www.travelxpressng.netlify.app'>TravelXpressNg</a> :  I am currently working on the website for TravelXpressNg - a travel company in Nigeria.
+- <a href='https://travelxpressng.netlify.app/'>TravelXpressNg</a> :  I am currently working on the website for TravelXpressNg - a travel company in Nigeria.
