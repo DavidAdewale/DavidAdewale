@@ -34,4 +34,4 @@ Want to know more about me? <a href='https://www.davidwebworks.com'> Check out m
 <br/>
 - <a href='https://travelxpressng.netlify.app/'>TravelXpressNg</a> :  I am currently working on the website for TravelXpressNg - a travel company in Nigeria.
 
-<h4>If you are curious, you can checkout my music <a href='https://audiomack.com/realmace'>here</a></h4><span>🎧</span>
+<p>If you are curious, you can checkout my music <a href='https://audiomack.com/realmace'>here</a><span>🎧</span></p>
