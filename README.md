@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/06/6d/c3/066dc352e368eb84f17c9aa0154a1a87.gif)](https://github.com/DavidAdewale)
 
-<h1 align="center">Hi 👋, I'm David Adewale <img width='30' style='border-radius: 200px;' src="https://avatars.githubusercontent.com/u/120166285?s=400&u=6e20756bf97834ed7cd575092cadd3f00fe2b26d&v=4" alt="david-adewale" /> </h1>
+<h1 align="center">Hi there 👋, I'm David Adewale <img width='30' style='border-radius: 200px;' src="https://avatars.githubusercontent.com/u/120166285?s=400&u=6e20756bf97834ed7cd575092cadd3f00fe2b26d&v=4" alt="david-adewale" /> </h1>
 <h3 align="center" style='padding-bottom: 2rem;'>A passionate frontend developer from Nigeria.</h3>
 
 <br/>
