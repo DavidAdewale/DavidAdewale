@@ -1,17 +1,17 @@
 [![David's GitHub Banner](./assets/header.png)](https://davidwebworks.com)
+
 [![Visits Badge](https://badges.pufler.dev/visits/DavidAdewale/DavidAdewale)](https://davidwebworks.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/realmace_)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/david-adewale-a64082209/)
 
-<h1 align="center">Hi there 👋, I'm David Adewale </h1>
-<h3 align="center" style='padding-bottom: 2rem;'>A passionate frontend developer from Nigeria.</h3>
+<p align="left"> 
+Hey there 🙋‍♂️,
 
-<br/>
-<br/>
+I'm David, a freelance front-end engineer, uxui designer and music enthusiast who specializes in front-end development. I am a life long learner and a deeply curious mind
 
-<img align='right' width='200' alt='image' style='border-radius: 16px;' src='https://i.pinimg.com/564x/28/54/4f/28544f9edce7a2046945be3c5b5522dd.jpg' />
+Want to know more about me? <a href='https://www.davidwebworks.com'> Check out my portfolio</a>
 
-<!-- <p align="left"> </p> -->
+</p>
 
 - 🔭 I’m currently working as a **freelance developer**
 
