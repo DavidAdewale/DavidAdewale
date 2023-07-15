@@ -15,7 +15,7 @@ Want to know more about me? <a href='https://www.davidwebworks.com'> Check out m
 </p>
 <br>
 
-<h2>What I'm up to:</h2>
+## What I'm up to:
 
 - 🔭 I’m currently working as a **freelance developer**
 
@@ -29,11 +29,26 @@ Want to know more about me? <a href='https://www.davidwebworks.com'> Check out m
 
 - ⚡ Fun fact **I love to design, code and make music 🎵**
 
-<h3>My recent projects</h3>
-- <a href='https://www.getdronic.com'>Dronic Smart Plugs</a> :  I helped bring Dronic Smart Plugs' vision to life with a sleek logo, vibrant colors, and an easy-to-use online shop.
-<br/>
-- <a href='https://travelxpressng.netlify.app/'>TravelXpressNg</a> :  I am currently working on the website for TravelXpressNg - a travel company in Nigeria.
+## 📌 My recent projects
+
+- <a href='https://www.getdronic.com'>Dronic Smart Plugs</a> : I helped bring Dronic Smart Plugs' vision to life with a sleek logo, vibrant colors, and an easy-to-use online shop.
+  <br/>
+- <a href='https://travelxpressng.netlify.app/'>TravelXpressNg</a> : I am currently working on the website for TravelXpressNg - a travel company in Nigeria.
 
 <br/>
 <br/>
-<p><span>🎶</span> <em>If you are curious, you can checkout my music <a href='https://audiomack.com/realmace'>here</a></em> <span>🎧</span></p>
+
+## 💼 Skills
+
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
+
+🎶 <em>If you are curious, you can checkout my music <a href='https://audiomack.com/realmace'>here</a></em> 🎧
