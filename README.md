@@ -15,7 +15,6 @@ Want to know more about me? <a href='https://www.davidwebworks.com'> Check out m
 <hr>
 
 <h2>What I'm up to:</h2>
-<hr>
 
 - 🔭 I’m currently working as a **freelance developer**
 
