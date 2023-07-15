@@ -12,7 +12,7 @@ I'm David, a freelance front-end engineer, uxui designer and music enthusiast wh
 Want to know more about me? <a href='https://www.davidwebworks.com'> Check out my portfolio</a>
 
 </p>
-<hr>
+<br>
 
 <h2>What I'm up to:</h2>
 
