@@ -1,6 +1,9 @@
 [![David's GitHub Banner](./assets/header.png)](https://davidwebworks.com)
+[![Visits Badge](https://badges.pufler.dev/visits/DavidAdewale/DavidAdewale)](https://davidwebworks.com)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/realmace_)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/david-adewale-a64082209/)
 
-<h1 align="center">Hi there 👋, I'm David Adewale <img width='30' style='border-radius: 200px;' src="https://avatars.githubusercontent.com/u/120166285?s=400&u=6e20756bf97834ed7cd575092cadd3f00fe2b26d&v=4" alt="david-adewale" /> </h1>
+<h1 align="center">Hi there 👋, I'm David Adewale </h1>
 <h3 align="center" style='padding-bottom: 2rem;'>A passionate frontend developer from Nigeria.</h3>
 
 <br/>
