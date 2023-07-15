@@ -36,4 +36,4 @@ Want to know more about me? <a href='https://www.davidwebworks.com'> Check out m
 
 <br/>
 <br/>
-<p>If you are curious, you can checkout my music <a href='https://audiomack.com/realmace'>here</a><span>🎧</span></p>
+<p><span>🎶</span> <em>If you are curious, you can checkout my music <a href='https://audiomack.com/realmace'>here</a></em> <span>🎧</span></p>
