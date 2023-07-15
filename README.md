@@ -30,4 +30,5 @@ Want to know more about me? <a href='https://www.davidwebworks.com'> Check out m
 
 <h3>My recent projects</h3>
 - <a href='https://www.getdronic.com'>Dronic Smart Plugs</a>
+<br/>
 - <a href='https://www.travelxpressng.netlify.app'>TravelXpressNg</a>
