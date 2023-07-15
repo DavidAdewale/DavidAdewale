@@ -1,6 +1,7 @@
 [![David's GitHub Banner](./assets/header.png)](https://davidwebworks.com)
 
-[![Visits Badge](https://badges.pufler.dev/visits/DavidAdewale/DavidAdewale)](https://davidwebworks.com)
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/DavidAdewale/DavidAdewale)](https://davidwebworks.com) -->
+
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/realmace_)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/david-adewale-a64082209/)
 
@@ -29,6 +30,6 @@ Want to know more about me? <a href='https://www.davidwebworks.com'> Check out m
 - ⚡ Fun fact **I love to design, code and make music 🎵**
 
 <h3>My recent projects</h3>
-- <a href='https://www.getdronic.com'>Dronic Smart Plugs</a>
+- <a href='https://www.getdronic.com'>Dronic Smart Plugs</a> : I helped bring Dronic Smart Plugs' vision to life with a sleek logo, vibrant colors, and an easy-to-use online shop.
 <br/>
-- <a href='https://www.travelxpressng.netlify.app'>TravelXpressNg</a>
+- <a href='https://www.travelxpressng.netlify.app'>TravelXpressNg</a> I am currently working on the website for TravelXpressNg - a travel company in Nigeria.
