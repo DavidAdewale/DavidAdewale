@@ -10,7 +10,7 @@ Hey there 🙋‍♂️,
 
 I'm David, a freelance front-end engineer, uxui designer and music enthusiast who specializes in front-end development. I am a life long learner and a deeply curious mind
 
-Want to know more about me? [Check out my portfolio](https://www.davidwebworks.com){target='\_blank'}
+Want to know more about me? [Check out my portfolio](https://www.davidwebworks.com)
 
 </p>
 <br>
@@ -31,9 +31,9 @@ Want to know more about me? [Check out my portfolio](https://www.davidwebworks.c
 
 ## 📌 My recent projects
 
-- <a href='https://www.getdronic.com' target='_blank'>Dronic Smart Plugs</a> : I helped bring Dronic Smart Plugs' vision to life with a sleek logo, vibrant colors, and an easy-to-use online shop.
+- [Dronic Smart Plugs](https://www.getdronic.com) : I helped bring Dronic Smart Plugs' vision to life with a sleek logo, vibrant colors, and an easy-to-use online shop.
   <br/>
-- <a href='https://travelxpressng.netlify.app/' target='_blank'>TravelXpressNg</a> : I am currently working on the website for TravelXpressNg - a travel company in Nigeria.
+- [TravelXpressNg](https://travelxpressng.netlify.app/): I am currently working on the website for TravelXpressNg - a travel company in Nigeria.
 
 <br/>
 <br/>
@@ -41,7 +41,6 @@ Want to know more about me? [Check out my portfolio](https://www.davidwebworks.c
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
@@ -51,4 +50,4 @@ Want to know more about me? [Check out my portfolio](https://www.davidwebworks.c
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 
-🎶 <em>If you are curious, you can checkout my music <a href='https://audiomack.com/realmace' target='_blank'>here</a></em> 🎧
+🎶 <em>If you are curious, you can checkout my music [here]('https://audiomack.com/realmace)</em> 🎧
