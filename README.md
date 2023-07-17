@@ -41,17 +41,17 @@ Want to know more about me? [Check out my portfolio](https://www.davidwebworks.c
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=5dd3f3)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f7d800)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=3753e0)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=3ebff8)
-![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=563D7C)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=ce6b9c)
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=a55eff)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=37abff)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=ff9d08)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=0bf067)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=3ab4bd)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=61DAFB&color=5DD3F3)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=F7D800)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=1572B6&color=3753E0)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=tailwind-css&logoColor=38B2AC&color=3EBFF8)
+![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=563D7C&color=563D7C)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=sass&logoColor=CC6699&color=CE6B9C)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=F24E1E&color=A55EFF)
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=31A8FF&color=37ABFF)
+![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=adobe-illustrator&logoColor=FF9A00&color=FF9D08)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=181717&color=0BF067)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=00C7B7&color=3AB4BD)
 
 🎶 <em>If you are curious, you can checkout my music </em>[here](https://audiomack.com/realmace) 🎧
 
