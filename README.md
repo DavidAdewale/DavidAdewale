@@ -46,7 +46,7 @@ Want to know more about me? [Check out my portfolio](https://www.davidwebworks.c
 ![](https://img.shields.io/badge/Style-Sass-informational?style=for-the-badge&logo=sass&logoColor=CC6699&color=CE6B9C)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=F7D800)
 <br/>
-![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=563D7C&color=563D7C)
+![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=white&color=563D7C)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&color=3EBFF8)
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=61DAFB&color=5DD3F3)
 <br/>
