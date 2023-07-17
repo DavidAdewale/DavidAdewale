@@ -10,7 +10,7 @@ Hey there 🙋‍♂️,
 
 I'm David, a freelance front-end engineer, uxui designer and music enthusiast who specializes in front-end development. I am a life long learner and a deeply curious mind
 
-Want to know more about me? [Check out my portfolio](https://www.davidwebworks.com){:target='\_blank'}
+Want to know more about me? [Check out my portfolio](https://www.davidwebworks.com){target='\_blank'}
 
 </p>
 <br>
