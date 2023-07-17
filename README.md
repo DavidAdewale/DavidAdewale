@@ -20,7 +20,7 @@ Want to know more about me? [Check out my portfolio](https://www.davidwebworks.c
 
 - 🔭 I’m currently working as a **freelance developer**
 
-- 🌱 I’m currently learning **React target='\_blank'**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **challenging projects**
 
