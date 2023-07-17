@@ -56,4 +56,5 @@ Want to know more about me? [Check out my portfolio](https://www.davidwebworks.c
 🎶 <em>If you are curious, you can checkout my music </em>[here](https://audiomack.com/realmace) 🎧
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAdewale&layout=compact)
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAdewale&show_icons=true&theme=radical)
+
+<!-- ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAdewale&show_icons=true&theme=radical) -->
