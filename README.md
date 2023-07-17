@@ -50,7 +50,7 @@ Want to know more about me? [Check out my portfolio](https://www.davidwebworks.c
 <br/>
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=61DAFB&color=5DD3F3)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&color=3EBFF8)
-![](https://img.shields.io/badge/Styled_Components-%23DB7093-%23FF1493?style=for-the-badge&logo=styled-components)
+![](https://img.shields.io/badge/Style-Styled-Components-informational?style=for-the-badge&logo=styled-components)
 <br/>
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=white&color=A55EFF)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF&color=37ABFF)
