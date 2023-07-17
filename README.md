@@ -60,8 +60,9 @@ Want to know more about me? [Check out my portfolio](https://www.davidwebworks.c
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=for-the-badge&logo=netlify&logoColor=00C7B7&color=3AB4BD)
 ![](https://img.shields.io/badge/Database-Supabase-informational?style=for-the-badge&logo=supabase&logoColor=3ec68b&color=3ec68b)
 
-🎶 <em>If you are curious, you can checkout my music </em>[here](https://audiomack.com/realmace) 🎧
-
+<div style='text-align: right;'>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAdewale&layout=compact&theme=dark&border_color=1F2636)
+</div>
+🎶 <em>If you are curious, you can checkout my music </em>[here](https://audiomack.com/realmace) 🎧
 
 <!-- ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAdewale&show_icons=true&theme=radical) -->
