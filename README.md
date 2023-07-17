@@ -53,6 +53,10 @@ Want to know more about me? [Check out my portfolio](https://www.davidwebworks.c
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=181717&color=0BF067)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=00C7B7&color=3AB4BD)
 
+![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=61DAFB&color=blue)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=F7DF1E&color=yellow)
+![](https://img.shields.io/badge/Style-CSS-informational?style=plastic&logo=css3&logoColor=1572B6&color=#3753E0)
+
 🎶 <em>If you are curious, you can checkout my music </em>[here](https://audiomack.com/realmace) 🎧
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAdewale&layout=compact&theme=dark&border_color=1F2636)
