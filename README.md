@@ -2,9 +2,9 @@
 
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/DavidAdewale/DavidAdewale)](https://davidwebworks.com) -->
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badg&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/realmace_)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badg&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/david-adewale-a64082209/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badg&logo=instagram&logoColor=white&color=E4405F)](https://www.instagram.com/real.mace/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=for-the-badge&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/realmace_)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/david-adewale-a64082209/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F)](https://www.instagram.com/real.mace/)
 
 <p align="left"> 
 Hey there 🙋‍♂️,
