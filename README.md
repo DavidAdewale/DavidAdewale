@@ -19,7 +19,7 @@ Want to know more about me? <a href='https://www.davidwebworks.com'> Check out m
 
 - 🔭 I’m currently working as a **freelance developer**
 
-- 🌱 I’m currently learning **React Redux**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **challenging projects**
 
