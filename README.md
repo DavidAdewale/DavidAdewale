@@ -41,22 +41,22 @@ Want to know more about me? [Check out my portfolio](https://www.davidwebworks.c
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&labelColor=555555&color=e34c26)
+![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=a1a7ae&labelColor=555555&color=e34c26)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=F7D800)
 <br/>
-![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=white&color=3753E0)
-![](https://img.shields.io/badge/Style-Sass-informational?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=white&color=CE6B9C)
-![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=white&color=563D7C)
+![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=a1a7ae&color=3753E0)
+![](https://img.shields.io/badge/Style-Sass-informational?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=a1a7ae&color=CE6B9C)
+![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=a1a7ae&color=563D7C)
 <br/>
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=61DAFB&color=5DD3F3)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&color=3EBFF8)
-![](https://img.shields.io/badge/Style-Styled_Components-informational?style=for-the-badge&logo=styled-components&labelColor=white&color=de7496)
+![](https://img.shields.io/badge/Style-Styled_Components-informational?style=for-the-badge&logo=styled-components&labelColor=a1a7ae&color=de7496)
 <br/>
-![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=white&color=A55EFF)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=a1a7ae&color=A55EFF)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF&color=37ABFF)
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=for-the-badge&logo=adobe-illustrator&logoColor=FF9A00&color=FF9D08)
 <br/>
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=2e7ced)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=github&logoColor=a1a7ae&color=2e7ced)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=for-the-badge&logo=netlify&logoColor=00C7B7&color=3AB4BD)
 ![](https://img.shields.io/badge/Database-Supabase-informational?style=for-the-badge&logo=supabase&logoColor=3ec68b&color=3ec68b)
 
