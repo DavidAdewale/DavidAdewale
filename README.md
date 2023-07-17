@@ -1,4 +1,4 @@
-[![David's GitHub Banner](./assets/header.jpg)](https://davidwebworks.com)
+[![David's GitHub Banner](./assets/header.png)](https://davidwebworks.com)
 
 <!-- [![Visits Badge](https://badges.pufler.dev/visits/DavidAdewale/DavidAdewale)](https://davidwebworks.com) -->
 
