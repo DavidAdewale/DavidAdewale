@@ -54,3 +54,5 @@ Want to know more about me? [Check out my portfolio](https://www.davidwebworks.c
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
 
 🎶 <em>If you are curious, you can checkout my music </em>[here](https://audiomack.com/realmace) 🎧
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAdewale&layout=compact)
