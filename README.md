@@ -58,6 +58,7 @@ Want to know more about me? [Check out my portfolio](https://www.davidwebworks.c
 <br/>
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=2e7ced)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=for-the-badge&logo=netlify&logoColor=00C7B7&color=3AB4BD)
+![](https://img.shields.io/badge/Database-Supabase-informational?style=for-the-badge&logo=supabase&logoColor=3ec68b&color=3ec68b)
 
 🎶 <em>If you are curious, you can checkout my music </em>[here](https://audiomack.com/realmace) 🎧
 
