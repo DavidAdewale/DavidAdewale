@@ -42,8 +42,8 @@ Want to know more about me? [Check out my portfolio](https://www.davidwebworks.c
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&labelColor=555555&color=e34c26)
-![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=1572B6&color=3753E0)
-![](https://img.shields.io/badge/Style-Sass-informational?style=for-the-badge&logo=sass&logoColor=CC6699&color=CE6B9C)
+![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=white&color=3753E0)
+![](https://img.shields.io/badge/Style-Sass-informational?style=for-the-badge&logo=sass&logoColor=CC6699&&labelColor=whitecolor=CE6B9C)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=F7D800)
 <br/>
 ![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=white&color=563D7C)
