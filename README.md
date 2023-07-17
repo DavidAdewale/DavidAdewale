@@ -46,11 +46,10 @@ Want to know more about me? [Check out my portfolio](https://www.davidwebworks.c
 <br/>
 ![](https://img.shields.io/badge/Style-CSS-informational?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=white&color=3753E0)
 ![](https://img.shields.io/badge/Style-Sass-informational?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=white&color=CE6B9C)
-<br/>
 ![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=white&color=563D7C)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&color=3EBFF8)
 <br/>
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=61DAFB&color=5DD3F3)
+![](https://img.shields.io/badge/Style-Tailwind-informational?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&color=3EBFF8)
 <br/>
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=white&color=A55EFF)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF&color=37ABFF)
