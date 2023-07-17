@@ -50,11 +50,11 @@ Want to know more about me? [Check out my portfolio](https://www.davidwebworks.c
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&color=3EBFF8)
 ![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=61DAFB&color=5DD3F3)
 <br/>
-![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=figma&logoColor=F24E1E&color=A55EFF)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=white&color=A55EFF)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF&color=37ABFF)
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=for-the-badge&logo=adobe-illustrator&logoColor=FF9A00&color=FF9D08)
 <br/>
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=github&logoColor=181717&color=0BF067)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=2e7ced)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=for-the-badge&logo=netlify&logoColor=00C7B7&color=3AB4BD)
 
 🎶 <em>If you are curious, you can checkout my music </em>[here](https://audiomack.com/realmace) 🎧
