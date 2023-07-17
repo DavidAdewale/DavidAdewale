@@ -50,4 +50,4 @@ Want to know more about me? [Check out my portfolio](https://www.davidwebworks.c
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 
-🎶 <em>If you are curious, you can checkout my music </em>[here]('https://audiomack.com/realmace) 🎧
+🎶 <em>If you are curious, you can checkout my music </em>[here](https://audiomack.com/realmace) 🎧
