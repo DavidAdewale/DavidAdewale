@@ -9,7 +9,7 @@
 <p align="left"> 
 Hey there 🙋‍♂️,
 
-I'm David, a freelance front-end engineer, uxui designer and music enthusiast who specializes in front-end development. I am a life long learner and a deeply curious mind
+I'm David, a senior product, interface and graphics designer and front end developer at Moneda.
 
 Want to know more about me? [Check out my portfolio](https://www.davidwebworks.com)
 
@@ -18,23 +18,18 @@ Want to know more about me? [Check out my portfolio](https://www.davidwebworks.c
 
 ## What I'm up to:
 
-- 🔭 I’m currently working as a **freelance developer**
+- 🔭 I’m currently working as a Senior Associate, Product, Interface and Graphics Design
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning Nextjs
 
 - 👯 I’m looking to collaborate on **challenging projects**
 
-- 💬 Ask me about **Javascript, React, Tailwind**
+- 💬 Ask me about **Javascript, React, Nextjs, CSS, Tailwind**
 
 - 📫 How to reach me **adewaledavidola@gmail.com**
 
 - ⚡ Fun fact **I love to design, code and make music 🎵**
 
-## 📌 My recent projects
-
-- [Dronic Smart Plugs](https://www.getdronic.com) : I helped bring Dronic Smart Plugs' vision to life with a sleek logo, vibrant colors, and an easy-to-use online shop.
-  <br/>
-- [TravelXpressNg](https://travelxpressng.netlify.app/): I am currently working on the website for TravelXpressNg - a travel company in Nigeria.
 
 <br/>
 <br/>
