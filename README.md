@@ -20,11 +20,11 @@ Want to know more about me? [Check out my portfolio](https://www.davidwebworks.c
 
 - 🔭 I’m currently working as a Senior Associate, Product, Interface and Graphics Design
 
-- 🌱 I’m currently learning Nextjs
+- 🌱 I’m currently learning 3D Design and Motion Graphics
 
 - 👯 I’m looking to collaborate on **challenging projects**
 
-- 💬 Ask me about **Javascript, React, Nextjs, CSS, Tailwind**
+- 💬 Ask me about **Javascript, React, Nextjs, CSS**
 
 - 📫 How to reach me **adewaledavidola@gmail.com**
 
