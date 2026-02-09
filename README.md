@@ -18,9 +18,7 @@ I'm David, a front end developer, designer and mobile app developer.
 
 ## What I'm up to:
 
-- 🔭 I’m currently working as a Senior Associate, Product, Interface and Graphics Design
-
-- 🌱 I’m currently learning 3D Design and Motion Graphics
+- 🔭 I’m currently working as a Product Design & Communications Manager
 
 - 👯 I’m looking to collaborate on **challenging projects**
 
