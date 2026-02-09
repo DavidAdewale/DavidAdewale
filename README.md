@@ -9,9 +9,9 @@
 <p align="left"> 
 Hey there 🙋‍♂️,
 
-I'm David, a senior product, interface and graphics designer and front end developer at Moneda.
+I'm David, a front end developer, designer and mobile app developer.
 
-Want to know more about me? [Check out my portfolio](https://www.davidwebworks.com)
+
 
 </p>
 <br>
@@ -57,6 +57,6 @@ Want to know more about me? [Check out my portfolio](https://www.davidwebworks.c
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidAdewale&layout=compact&theme=dark&border_color=1F2636)
 
-🎶 <em>If you are curious, you can checkout my music </em>[here](https://audiomack.com/realmace) 🎧
+🎶 <em>If you are curious, you can checkout my music </em>[here](https://on.soundcloud.com/gT1lNM4khALoDT0zzL) 🎧
 
 <!-- ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidAdewale&show_icons=true&theme=radical) -->
